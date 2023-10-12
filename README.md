@@ -1,2 +1,2 @@
-# Lists
-About List
+#Python
+Codes executed in Visual Studio
